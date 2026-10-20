@@ -4,8 +4,7 @@ export default (): HvAppShellConfig => ({
   name: "uikit-app",
   logo: { name: "PENTAHO" },
 
-
   mainPanel: {
-    maxWidth: "xl"  },
-
+    maxWidth: "xl",
+  },
 });
